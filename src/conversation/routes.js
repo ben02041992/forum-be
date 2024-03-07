@@ -1,8 +1,8 @@
-import express from "express";
+// import express from "express";
 
-const router = express.Router();
+// const router = express.Router();
 
-router.post("/", createChat);
-router.get("/:id", getChatById);
+// router.post("/", createChat);
+// router.get("/:id", getChatById);
 
-export default router;
+// export default router;
